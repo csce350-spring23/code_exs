@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/sorts.dir/src/sorts.cpp.o  -o sorts 

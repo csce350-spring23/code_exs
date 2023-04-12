@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oreillyj/csce350_exs/sorts_maps/src/sorts.cpp
+sorts.h
+/home/oreillyj/csce350_exs/sorts_maps/src/sorts.h
+iostream
+-
+vector
+-
+cstdlib
+-
+random
+-
+algorithm
+-
+
+/home/oreillyj/csce350_exs/sorts_maps/src/sorts.h
+iostream
+-
+string
+-
+
