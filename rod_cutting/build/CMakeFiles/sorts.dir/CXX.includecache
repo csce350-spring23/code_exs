@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/oreillyj/csce350_exs/rod_cutting/src/rod_cutting.cpp
+rod_cutting.h
+/home/oreillyj/csce350_exs/rod_cutting/src/rod_cutting.h
+
+/home/oreillyj/csce350_exs/rod_cutting/src/rod_cutting.h
+vector
+-
+
